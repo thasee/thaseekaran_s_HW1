@@ -23,8 +23,7 @@ Atomic Habits
 
 ![Screen Dhot](images/article.png)
 
-# Thaseekaran & Yi Ting Elaine  
-This is a repo for the assignment. 
+
 
 ## Yi Ting Lai (Elaine) 
 
@@ -66,4 +65,4 @@ My favourite website:
 - [Pinterest](https://www.pinterest.com/)
 - [Youtube](https://www.youtube.com/)
 
-des.yt.readme-file
+
